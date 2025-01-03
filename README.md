@@ -10,74 +10,22 @@ This project is a simple password generator built with React and Vite. It allows
 - Copy generated password to clipboard
 
 ## Project Structure
-
 ```
-.gitignore
-
-
-eslint.config.js
-
-
-
-
-index.html
-
-
-
-
-package.json
-
-
-
-
-postcss.config.js
-
-
-public/
-
-
-README.md
-
-
-src/
-  
-
-App.css
-
-
-  
-
-App.jsx
-
-
-  assets/
-  
-
-index.css
-
-
-  
-
-main.jsx
-
-
-  
-
-passwordGenerator.jsx
-
-
-
-
-tailwind.config.js
-
-
-
-
-vite.config.js
-
-
+password-generator/
+├── src/
+│   ├── assets/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── passwordGenerator.jsx
+├── public/
+├── index.html
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── vite.config.js
 ```
-
 ## Getting Started
 
 ### Prerequisites
