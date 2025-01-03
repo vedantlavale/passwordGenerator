@@ -1,4 +1,3 @@
-```
 # Password Generator
 
 This project is a simple password generator built with React and Vite. It allows users to generate random passwords with customizable options such as length, inclusion of numbers, and special characters.
@@ -130,7 +129,4 @@ To lint the project, run:
 npm run lint
 # or
 yarn lint
-```
-
-## License
 ```
